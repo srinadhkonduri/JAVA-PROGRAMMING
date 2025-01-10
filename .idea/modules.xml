@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JAVA-PROGRAMMING.iml" filepath="$PROJECT_DIR$/.idea/JAVA-PROGRAMMING.iml" />
       <module fileurl="file://$PROJECT_DIR$/Module-1 Programming-Fundamentals/Module-1 Programming-Fundamentals.iml" filepath="$PROJECT_DIR$/Module-1 Programming-Fundamentals/Module-1 Programming-Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module-2 Operators And Assignments/Module-2 Operators And Assignments.iml" filepath="$PROJECT_DIR$/Module-2 Operators And Assignments/Module-2 Operators And Assignments.iml" />
     </modules>
   </component>
 </project>
